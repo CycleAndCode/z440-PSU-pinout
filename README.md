@@ -1,5 +1,5 @@
 # z440-PSU-pinout
-Pinout and tipps for those who wanna use standard ATX with z440 workstation. 
+Pinout and tipps for those who wanna use standard ATX with z440 workstation motherboard. 
 
 HP uses proprietary power connectors, 18pin + 12pin. Those are not compatible with ATX out of the box. Moreover, most of the power supplies use only black cables, what leaves no clue about the pinout.
 
